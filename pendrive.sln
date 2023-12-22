@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pendrive", "pendrive.vcxproj", "{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Debug|x64.ActiveCfg = Debug|x64
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Debug|x64.Build.0 = Debug|x64
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Debug|x86.Build.0 = Debug|Win32
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Release|x64.ActiveCfg = Release|x64
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Release|x64.Build.0 = Release|x64
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Release|x86.ActiveCfg = Release|Win32
+		{ABD4CE24-A6D9-4505-AECB-4C2DB88BB642}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07904D59-EECE-4C97-8268-0BC116D5F47F}
+	EndGlobalSection
+EndGlobal

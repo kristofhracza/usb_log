@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="sys\disk_info.cpp" />
+    <ClCompile Include="sys\reg.cpp" />
+    <ClCompile Include="helpers\system.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sys\disk_info.h" />
+    <ClInclude Include="sys\reg.h" />
+    <ClInclude Include="helpers\system.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="stop.ps1" />
+  </ItemGroup>
+</Project>
